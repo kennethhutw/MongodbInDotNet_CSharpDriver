@@ -1,0 +1,10 @@
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\obj\Debug\MongoCSharpDriver.csprojResolveAssemblyReference.cache
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoCSharpDriver.dll.config
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoCSharpDriver.dll
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoCSharpDriver.pdb
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoDB.Bson.pdb
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoDB.Bson.xml
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoDB.Driver.pdb
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\bin\MongoDB.Driver.xml
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\obj\Debug\MongoCSharpDriver.dll
+c:\users\kenneth\documents\visual studio 2013\Projects\MongoCSharpDriver\MongoCSharpDriver\obj\Debug\MongoCSharpDriver.pdb
